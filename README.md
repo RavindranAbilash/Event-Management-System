@@ -11,8 +11,8 @@ This repository contains a RESTful API built with Node.js, Express, and MongoDB 
 ## How to Run
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/your-username/event_management_system.git](https://github.com/RavindranAbilash/Event-Management-System.git)
-    cd event_management_system
+    git clone https://github.com/RavindranAbilash/Event-Management-System.git
+    cd Event-Management-System
     ```
 2. Build and run the Docker containers:
     ```sh
